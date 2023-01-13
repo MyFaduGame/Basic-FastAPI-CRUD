@@ -17,8 +17,8 @@ Read Update Delete operation with the help of postgres database and FastAPI fram
 
 - Latest
 - Beginners friendly
-- Easy to <b>Make</b>,<b>Learn</b>,<b>Play</b>
-- Created in <i>Python</i> <i>FastAPI</i>
+- Easy to <b>Code</b>,<b>Learn</b>,<b>Play</b>
+- Created in <i>Python</i> <i>FastAPI</i> 
 
 ##
 

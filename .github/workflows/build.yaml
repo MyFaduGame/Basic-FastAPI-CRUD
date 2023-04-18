@@ -1,0 +1,16 @@
+name: practice
+
+on:
+  push:
+    branches: 
+      - "main"
+      - "master"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Push Repo
+        uses: actions/checkout@v3
+      - name: Print Hello
+        run: echo "Hello World"

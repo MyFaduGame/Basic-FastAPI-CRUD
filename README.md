@@ -34,10 +34,15 @@ Read Update Delete operation with the help of postgres database and FastAPI fram
   $ cd Basic-FastAPI-CRUD
   $ pipenv shell
   $ python3 -m pip -r requirements.txt
+  $ uvicorn --port 8000 --host 127.0.0.1 main:app --reload
   ```
 
 - On first launch, It'll install the dependencies and that's it. ***requirements*** is installed.
 
 ##
+
+## Authors
+
+- [@Navin319931](https://www.github.com/Navin319931)
 
 <!-- // -->

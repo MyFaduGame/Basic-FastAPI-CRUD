@@ -7,6 +7,7 @@ from pydantic import BaseModel
 import os
 import urllib
 
+
 # SQLAlchemy specific code, as with any other app
 # DATABASE_URL = "sqlite:///./test.db"
 
